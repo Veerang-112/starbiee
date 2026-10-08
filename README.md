@@ -94,14 +94,9 @@ Starbie/
 │   ├── KiCad project files
 │   └── PCB/fabrication files
 │
-├── Renders/
-│   └── PCB renders
 │
 ├── Firmware/
 │   └── Arduino firmware
-│
-├── Documentation/
-│   └── Learning notes
 │
 └── README.md
 ```
@@ -123,9 +118,5 @@ Original project:
 [SharKingStudios/Starbie on GitHub](https://github.com/SharKingStudios/Starbie?utm_source=chatgpt.com)
 
 The original Starbie repository contains the project design, documentation, PCB files, renders, and firmware.
+<img width="1365" height="767" alt="2" src="https://github.com/user-attachments/assets/a030a4fe-8692-483d-a756-1e363d0c6a65" />
 
-## 📜 Note
-
-This repository is primarily a **learning and educational project** created to understand PCB design and the KiCad workflow.
-
-All credit for the original Starbie project and its design goes to its respective creators.
